@@ -1,0 +1,8 @@
+name = "decision-making"
+version = "0.1.0"
+description = "Seven structured decision-making techniques (tribunal, adversarial, red-team, pre-mortem, council, ladder-of-abstraction, calibration) that exploit the subagent architecture to produce verdicts plan steps can branch on. Includes a routing skill and two custom subagent types (Advocate, Lens)."
+license = "MIT"
+
+[author]
+name = "Aaron Bassett"
+email = "aaronbassett@gmail.com"

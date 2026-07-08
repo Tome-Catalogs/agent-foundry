@@ -1,0 +1,8 @@
+name = "devs"
+version = "0.8.1"
+description = "Specialist coding agents and skills"
+license = "MIT"
+
+[author]
+name = "Aaron Bassett"
+email = "aaronbassett@gmail.com"
