@@ -1,0 +1,27 @@
+name = "agent-foundry"
+description = "Selected plugins converted from aaronbassett/agent-foundry"
+version = "0.1.0"
+
+[owner]
+name = "Aaron Bassett"
+email = ""
+
+[[plugins]]
+name = "decision-making"
+source = "decision-making"
+
+[[plugins]]
+name = "devs"
+source = "devs"
+
+[[plugins]]
+name = "ideas"
+source = "ideas"
+
+[[plugins]]
+name = "image-gen"
+source = "image-gen"
+
+[[plugins]]
+name = "lexisim"
+source = "lexisim"

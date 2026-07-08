@@ -1,0 +1,8 @@
+name = "ideas"
+version = "0.8.1"
+description = "Explore, develop, and refine ideas through creative collaboration — from open-ended riffing to structured ideation to ruthless refinement — before any design or implementation work begins."
+license = "MIT"
+
+[author]
+name = "Aaron Bassett"
+email = "aaronbassett@gmail.com"
